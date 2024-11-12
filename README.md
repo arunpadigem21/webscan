@@ -28,7 +28,7 @@ Installation
 Step 1: Clone the webscan Repository
 
 Clone the webscan repository to your system using Git:
-git clone https://github.com/skavngr/webscan.git
+git clone https://github.com/arunpadigem21/webscan.git
 
 Step 2: Navigate to the webscan Directory
 
