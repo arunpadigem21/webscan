@@ -10,7 +10,7 @@ HERE = pathlib.Path(__file__).parent
 README = (HERE / "README.md").read_text()
 
 setup(
-    name                =   "web",
+    name                =   "webscanner",
     description         =   "The Multi-Tool Web Vulnerability Scanner.",
     long_description    =   README,
     url                 =   "https://github.com/arunpadigem21/webscan",
