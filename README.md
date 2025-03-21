@@ -91,12 +91,3 @@ rm -rf webscan
 
 ---
 
-Additional Notes
-
-- Docker: webscan also has Docker support (under development).
-- Updating: To update webscan, pull the latest changes from the repository:
-  git pull origin master
-
-For more details on usage and features, visit the webscan GitHub Repository: https://github.com/arunpadigem21/webscan.
-
-This should help beginners with each step of setting up and running webscan. Let me know if you need any further details!
